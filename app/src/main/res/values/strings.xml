@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Textclok</string>
+    <string name="example_title">Ejemplo de TextClock</string>
+    <string name="students_list">Integrantes:\nAndrés Arrieta\nMateo Valdeblanquez\nFabrizzio Estrada</string>
+</resources>
